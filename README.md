@@ -12,4 +12,6 @@ Every time you visit, a new educational image welcomes you. Our dynamic image ro
 Tech Stack -
 HTML CSS
 
+https://palakbaghel.github.io/EducationWebsite/
+
 
